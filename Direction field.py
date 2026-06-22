@@ -34,9 +34,9 @@ class Grid():
 
 
 def f(x,y):
-    return y*((y-1)**2)
+    return y*(y-3)
 
-grid = Grid(nx = 0.3, ny= 0.3, minX = 0, minY = -5, maxX = 3, maxY = 5)
+grid = Grid(nx = 0.3, ny= 0.3, minX = 0, minY = -5, maxX = 5, maxY = 5)
 grid.PlotDirectionField(f)
 plt.title('Direction Field')
 plt.show()

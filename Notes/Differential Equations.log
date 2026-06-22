@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.23)  20 JUN 2026 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2026.1.23)  22 JUN 2026 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -41,114 +41,190 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks18
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count270
+\l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box52
 ) (./Differential Equations.aux)
 \openout1 = `"Differential Equations.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
-\scratchdimen=\dimen144
+\scratchcounter=\count274
+\scratchdimen=\dimen152
 \scratchbox=\box53
-\nofMPsegments=\count272
-\nofMParguments=\count273
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count274
-\MPscratchDim=\dimen145
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
-\everyMPtoPDFconversion=\toks19
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen153
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks20
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 17.
-<../images/y' = 3-y.png, id=1, 462.528pt x 346.896pt>
-File: ../images/y' = 3-y.png Graphic file (type png)
-<use ../images/y' = 3-y.png>
-Package pdftex.def Info: ../images/y' = 3-y.png  used on input line 19.
-(pdftex.def)             Requested size: 345.0178pt x 258.76335pt.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Overfull \hbox (15.0178pt too wide) in paragraph at lines 19--20
-[][] 
- []
-
-<../images/2y-4.png, id=3, 462.528pt x 346.896pt>
-File: ../images/2y-4.png Graphic file (type png)
-<use ../images/2y-4.png>
-Package pdftex.def Info: ../images/2y-4.png  used on input line 28.
-(pdftex.def)             Requested size: 345.0178pt x 258.76335pt.
-
-Overfull \hbox (15.0178pt too wide) in paragraph at lines 28--29
-[][] 
- []
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+(./Differential Equations.toc)
+\tf@toc=\write3
+\openout3 = `"Differential Equations.toc"'.
 
 
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../images/y' = 3-y.png>]
-<../images/-1-4y.png, id=17, 462.528pt x 346.896pt>
-File: ../images/-1-4y.png Graphic file (type png)
-<use ../images/-1-4y.png>
-Package pdftex.def Info: ../images/-1-4y.png  used on input line 37.
-(pdftex.def)             Requested size: 345.0178pt x 258.76335pt.
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<../images/1.1/problem1.png, id=11, 462.528pt x 346.896pt>
+File: ../images/1.1/problem1.png Graphic file (type png)
+<use ../images/1.1/problem1.png>
+Package pdftex.def Info: ../images/1.1/problem1.png  used on input line 32.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 34.
+<../images/1.1/problem2.png, id=13, 462.528pt x 346.896pt>
+File: ../images/1.1/problem2.png Graphic file (type png)
+<use ../images/1.1/problem2.png>
+Package pdftex.def Info: ../images/1.1/problem2.png  used on input line 38.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
+<../images/1.1/problem3.png, id=14, 462.528pt x 346.896pt>
+File: ../images/1.1/problem3.png Graphic file (type png)
+<use ../images/1.1/problem3.png>
+Package pdftex.def Info: ../images/1.1/problem3.png  used on input line 43.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
 
-Overfull \hbox (15.0178pt too wide) in paragraph at lines 37--38
-[][] 
- []
+
+[2 <../images/1.1/problem1.png> <../images/1.1/problem2.png>]
+<../images/1.1/problem4.png, id=23, 462.528pt x 346.896pt>
+File: ../images/1.1/problem4.png Graphic file (type png)
+<use ../images/1.1/problem4.png>
+Package pdftex.def Info: ../images/1.1/problem4.png  used on input line 47.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
 
 
+[3 <../images/1.1/problem3.png> <../images/1.1/problem4.png>]
+<../images/1.1/problem7.png, id=30, 462.528pt x 346.896pt>
+File: ../images/1.1/problem7.png Graphic file (type png)
+<use ../images/1.1/problem7.png>
+Package pdftex.def Info: ../images/1.1/problem7.png  used on input line 61.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
+<../images/1.1/problem8.png, id=31, 462.528pt x 346.896pt>
+File: ../images/1.1/problem8.png Graphic file (type png)
+<use ../images/1.1/problem8.png>
+Package pdftex.def Info: ../images/1.1/problem8.png  used on input line 70.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
 
-[2 <../images/2y-4.png>]
 
-[3 <../images/-1-4y.png>] (./Differential Equations.aux)
+[4 <../images/1.1/problem7.png>]
+<../images/1.1/problem9.png, id=37, 462.528pt x 346.896pt>
+File: ../images/1.1/problem9.png Graphic file (type png)
+<use ../images/1.1/problem9.png>
+Package pdftex.def Info: ../images/1.1/problem9.png  used on input line 79.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
+<../images/1.1/problem10.png, id=38, 462.528pt x 346.896pt>
+File: ../images/1.1/problem10.png Graphic file (type png)
+<use ../images/1.1/problem10.png>
+Package pdftex.def Info: ../images/1.1/problem10.png  used on input line 85.
+(pdftex.def)             Requested size: 354.03743pt x 265.52806pt.
+
+
+[5 <../images/1.1/problem8.png> <../images/1.1/problem9.png>]
+
+[6 <../images/1.1/problem10.png>] (./Differential Equations.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1326 strings out of 473190
- 22288 string characters out of 5715800
- 410541 words of memory out of 5000000
- 24616 multiletter control sequences out of 15000+600000
- 562784 words of font info for 49 fonts, out of 8000000 for 9000
+ 1931 strings out of 473190
+ 32301 string characters out of 5715800
+ 430575 words of memory out of 5000000
+ 25206 multiletter control sequences out of 15000+600000
+ 563092 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,337b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "Differential Equations.pdf" (3 pages, 259528 bytes).
+ 57i,6n,65p,477b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "Differential Equations.pdf" (6 pages, 570371 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

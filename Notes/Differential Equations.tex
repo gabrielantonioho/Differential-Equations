@@ -1,6 +1,13 @@
 \documentclass{article}
 \usepackage{graphicx} % Required for inserting images% Set graphics path relative to this .tex file (Notes/ -> ../images/)
+\usepackage[margin=2.5cm]{geometry}   
+% graphicspath: images are located one level up in ../images/
 \graphicspath{{../images/}}
+
+% Image folder helper: call \SetImageFolder{<section>} before using \DirectionField
+\newcommand{\ImageFolder}{}
+\newcommand{\SetImageFolder}[1]{\renewcommand{\ImageFolder}{../images/#1/}}
+\newcommand{\DirectionField}[1]{\includegraphics[width=0.75\textwidth,height=0.5\textheight,keepaspectratio]{\ImageFolder#1}}
 
 
 \title{ODEs}
@@ -11,31 +18,95 @@
 
 \maketitle
 
+\tableofcontents
+
+\newpage
+
+
 \section{Section 1.1}
 
-\subsection*{Problem 1}
-Below shows the direction field for $y' = 3 - y$. 
+\SetImageFolder{1.1}
 
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{y' = 3-y.png}
+\subsection*{Problems 1, 2, 3, 4}
 
-It can be seen that for $y > 3$ the slopes are negative so solutions decrease and 
+\DirectionField{problem1.png}
+
+\textbf{Problem 1}: Above shows the direction field for $y' = 3 - y$. It can be seen that for $y > 3$ the slopes are negative so solutions decrease and 
 for $y < 3$ the slopes are positive so solutions increase. 
 The equilibrium position appears to be at $y(t) = 3$, to which all other solutions converge.
 
-\subsection*{Problem 2}
-Below shows the direction field for $y' = 2y - 4$
+\DirectionField{problem2.png}
 
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{2y-4.png}
-
-For $y > 2$ the slopes are positive so solutions increase 
+\textbf{Problem 2}: Above shows the direction field for $y' = 2y - 4$. For $y > 2$ the slopes are positive so solutions increase 
 and for $y < 2$ the slopes are negative so solutions decrease. The equilibrium solution appears to be $y = 2$ and all other solutions diverge away from this solution. 
 
-\subsection*{Problem 3}
+\DirectionField{problem3.png}
 
-Below shows the direction field for $y' = -1 -4y$
+\textbf{Problem 3}: Above shows the direction field for $y' = -1 -4y$. For $y > -\frac{1}{4}$ the slopes are positive so solutions increase. For $ y > -\frac{1}{4} $ the slopes are negative so solutions decrease. The equilibrium solution appears to be $ y = -\frac{1}{4} $ and all other solutions converge to this solution.
 
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{-1-4y.png}
+\DirectionField{problem4.png}
 
+\textbf{Problem 4}: Above shows the direction field for $y' = 4y - 2$. For $y > 0.5$ the slopes are positive so solutions are increasing. For $ y < 0.5 $ the slopes are negative so the solutions are decreasing. It appears that the equilibrium solution is at $ y = \frac{1}{2} $ and all other solutions diverge away.
 
+\subsection*{Problems 5 and 6}
+
+\textbf{Problem 5:} A differential equation where all solutions approach $y = \frac{2}{3}$ is given by $\frac{dy}{dx} = 2 - 3y$. 
+
+\noindent\textbf{Problem 6:} A differential equations where all other solutions diverge from $y = 3$ is $\frac{dy}{dx} = y - 3$
+
+\subsection*{Problems 7, 8, 9, 10}
+
+\textbf{Problem 7:} 
+
+\DirectionField{problem7.png}
+
+For $y > 4$, the slopes are negative and so solutions decrease. 
+For $0 < y < 4$, slopes are positive so solutions increase. 
+For $y < 0$ slopes are negative so solutions decrease.
+Equilibrium solutions appear to be at $y = 4$ to which solutions converge to and  $y = 0$ at which solutions diverge from.
+
+\textbf{Problem 8:} 
+
+\DirectionField{problem8.png}
+
+For $y > 4$, the slopes are positive and so solutions increase. 
+For $0 < y < 4$, slopes are negative so solutions decrease. 
+For $y < 0$ slopes are positive so solutions decrease.
+Equilibrium solutions appear to be at $y = 0$ to which solutions converge to and  $y = 4$ at which solutions diverge from.
+
+\textbf{Problem 9:} 
+
+\DirectionField{problem9.png}
+
+For $y > 0$, the slopes are positive and so solutions increase. For $y < 0$, the slopes are positive and so solutions increase. There appears to be an equilibrium position at $y = 0$ where solutions greater than 0 diverge from and solutions less than 0 converge to.
+
+\textbf{Problem 10:} 
+
+\DirectionField{problem10.png}
+
+For $y > 1$, the slopes are positive and so solutions are increasing
+For $0 < y < 1$, the slopes are positive so solutions are increasing
+For $y < 0$, the slopes are negative and so solutions are decreasing
+Equilibirum solutions appear to be at $y = 0$ which is unstable and $y = 1$ which is semi-stable. 
+
+\subsection*{Problems 11, 12, 13, 14, 15, 16}
+
+\textbf{Problem 11} The direction field of \textbf{Figure 1.1.5} has an equilibrium solution at $y = 2$ to which all solutions converge to. 
+So the differential equation that corresponds to this direction field is $\frac{dy}{dx} = 2 - y$.
+
+\noindent\textbf{Problem 12} The direction field of \textbf{Figure 1.1.6} has an equilibrium solution at $y = 2$ which is unstable. 
+So the differential equation that corresponds to this direction field is $\frac{dy}{dx} = y + 2$.
+
+\noindent\textbf{Problem 13} The direction field of \textbf{Figure 1.1.7} has an equilibrium solution at $y = - 3$ which is stable. 
+So the differential equation that corresponds to this direction field is $\frac{dy}{dx} = -3 - y$.
+
+\noindent\textbf{Problem 14} The direction field of \textbf{Figure 1.1.8} has an equilibrium solution at $y = -1$ which is unstable. 
+So the differential equation that corresponds to this direction field is $\frac{dy}{dx} = y + 1$.
+
+\noindent\textbf{Problem 15} The direction field of \textbf{Figure 1.1.9} has an equilibrium solution at $y = 2$ which is stable and $y=0$ which is unstable. 
+So the differential equation that corresponds to this direction field is $\frac{dy}{dx} = y(2 - y)$.
+
+\noindent\textbf{Problem 16} The direction field of \textbf{Figure 1.1.10} has an equilibrium solution at $y = 0$ which is stable and $y = 3$ which is unstable. 
+So the differential equation that corresponds to this direction field is $\frac{dy}{dx} = y(y - 3)$.
 
 \end{document}

@@ -23,6 +23,12 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./Differential Equations.aux
@@ -50,26 +56,62 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT ../images/y' = 3-y.png
-INPUT ../images/y' = 3-y.png
-INPUT ../images/y' = 3-y.png
+INPUT ./Differential Equations.toc
+INPUT ./Differential Equations.toc
+INPUT Differential Equations.toc
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT Differential Equations.toc
 OUTPUT Differential Equations.pdf
-INPUT ../images/y' = 3-y.png
-INPUT ../images/2y-4.png
-INPUT ../images/2y-4.png
-INPUT ../images/2y-4.png
-INPUT ../images/2y-4.png
 INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT ../images/-1-4y.png
-INPUT ../images/-1-4y.png
-INPUT ../images/-1-4y.png
-INPUT ../images/-1-4y.png
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ../images/1.1/problem1.png
+INPUT ../images/1.1/problem1.png
+INPUT ../images/1.1/problem1.png
+INPUT ../images/1.1/problem1.png
+INPUT ../images/1.1/problem1.png
+INPUT ../images/1.1/problem2.png
+INPUT ../images/1.1/problem2.png
+INPUT ../images/1.1/problem2.png
+INPUT ../images/1.1/problem2.png
+INPUT ../images/1.1/problem2.png
+INPUT ../images/1.1/problem3.png
+INPUT ../images/1.1/problem3.png
+INPUT ../images/1.1/problem3.png
+INPUT ../images/1.1/problem3.png
+INPUT ../images/1.1/problem3.png
+INPUT ../images/1.1/problem4.png
+INPUT ../images/1.1/problem4.png
+INPUT ../images/1.1/problem4.png
+INPUT ../images/1.1/problem4.png
+INPUT ../images/1.1/problem4.png
+INPUT ../images/1.1/problem7.png
+INPUT ../images/1.1/problem7.png
+INPUT ../images/1.1/problem7.png
+INPUT ../images/1.1/problem7.png
+INPUT ../images/1.1/problem7.png
+INPUT ../images/1.1/problem8.png
+INPUT ../images/1.1/problem8.png
+INPUT ../images/1.1/problem8.png
+INPUT ../images/1.1/problem8.png
+INPUT ../images/1.1/problem8.png
+INPUT ../images/1.1/problem9.png
+INPUT ../images/1.1/problem9.png
+INPUT ../images/1.1/problem9.png
+INPUT ../images/1.1/problem9.png
+INPUT ../images/1.1/problem9.png
+INPUT ../images/1.1/problem10.png
+INPUT ../images/1.1/problem10.png
+INPUT ../images/1.1/problem10.png
+INPUT ../images/1.1/problem10.png
+INPUT ../images/1.1/problem10.png
 INPUT Differential Equations.aux
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
